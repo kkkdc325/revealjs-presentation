@@ -98,10 +98,10 @@
 <p class="fragment" data-fragment-index="1" style="font-size: 24px;">
 基于Reveal.js 4.1.0构建，支持多终端适配</p>
 
-<p class="fragment" data-fragment-index="3" style="font-size: 24px;">
+<p class="fragment" data-fragment-index="2" style="font-size: 24px;">
 演讲者视图和笔记功能</p>
 
-<p class="fragment" data-fragment-index="2" style="font-size: 24px;">
+<p class="fragment" data-fragment-index="3" style="font-size: 24px;">
 丰富的演示控制功能（进度条、导航控制、代码高亮等）</p>
 
 
@@ -121,6 +121,8 @@
 
 <p class="fragment" data-fragment-index="1" style="font-size: 24px;">
 支持网络资源（GitHub Pages CDN）和本地资源双重引用</p>
+
+![截图描述](https://kkkdc325.github.io/revealjs-presentation/images/25.12.25.png) <!-- .element: class="fragment" data-fragment-index="1"-->
 
 <p class="fragment" data-fragment-index="2" style="font-size: 24px;">
 统一资源池管理，跨演示文稿共享资源</p>
