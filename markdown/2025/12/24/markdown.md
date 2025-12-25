@@ -121,8 +121,7 @@
 
 <p class="fragment" data-fragment-index="1" style="font-size: 24px;">
 支持网络资源（GitHub Pages CDN）和本地资源双重引用</p>
-
-![截图描述](https://kkkdc325.github.io/revealjs-presentation/images/25.12.25.png) <!-- .element: class="fragment" data-fragment-index="1"-->
+![截图描述](https://kkkdc325.github.io/revealjs-presentation/images/25.12.25.png) <!-- .element: class="fragment" data-fragment-index="4"-->
 
 <p class="fragment" data-fragment-index="2" style="font-size: 24px;">
 统一资源池管理，跨演示文稿共享资源</p>
